@@ -14,15 +14,21 @@ With 24 hours on the clock, we were asked to chart Costco’s next wave of inter
 
 # Insights & Recommendation Breakdown
 
-**India – Joint Venture (JV)**
-- 100% foreign direct investment allowed in B2B e-commerce only.
-- JV with local logistics or wholesale partner minimizes tax liability (30%) and eases compliance.
-- Product localization and regional warehousing are key to long-term scale.
-
 **UAE – Wholly Owned in Free Trade Zone**
 - Establish in Jebel Ali Free Zone (JAFZA) for 100% foreign ownership.
 - No corporate tax, fast registration, advanced logistics infrastructure.
 - Omnichannel strategy with real-time inventory and click-and-collect.
+
+**Malaysia – Strategic Entry Point (Alternative Strategy)**
+- Use Malaysia as a springboard into Southeast Asia (SEA) and India.
+- Government incentives and high retail CAGR make it favorable for FDI.
+- Serves as a regional testing ground and logistics hub before scaling into India.
+- Aligns with Costco’s existing Asia presence and targets a rising middle class in SEA.
+
+**India – Joint Venture (JV)**
+- 100% foreign direct investment allowed in B2B e-commerce only.
+- JV with local logistics or wholesale partner minimizes tax liability (30%) and eases compliance.
+- Product localization and regional warehousing are key to long-term scale.
 
 **Brazil – Delayed Entry with JV**
 - Bureaucracy and protectionist policies favor local partnerships.
